@@ -1,0 +1,6 @@
+﻿  Registery.cpp
+  StartServiceCtrlDispatcher.cpp
+C:\Users\airat\source\repos\BARKOV\BARKOV\StartServiceCtrlDispatcher.cpp(49,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\airat\source\repos\BARKOV\BARKOV\StartServiceCtrlDispatcher.cpp(39,22): warning C4101: processInfo: неиспользованная локальная переменная
+  Создание кода...
+  BARKOV.vcxproj -> C:\Users\airat\source\repos\BARKOV\x64\Debug\BARKOV.exe
